@@ -1,12 +1,12 @@
 {
     "name": "com.cysframe.protobuf",
     "displayName": "Protobuf",
-    "description": "A Unity C# Protobuf,
+    "description": "A Unity C# Protobuf",
     "version": "3.21.12",
     "unity": "2018.4",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CYSFrame/Protobuf-Unity"
+        "url": "https://github.com/CYSFrame/Protobuf-Unity.git"
     },
     "src": "Packages/Protobuf-UPM",
     "author": "Protobuf-UPM"
