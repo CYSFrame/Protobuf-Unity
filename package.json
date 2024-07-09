@@ -6,7 +6,7 @@
     "unity": "2018.4",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CYSFrame/Protobuf-Unity"
+        "url": "https://github.com/CYSFrame/Protobuf-Unity.git"
     },
     "src": "Packages/Protobuf-UPM",
     "author": "Protobuf-UPM"
